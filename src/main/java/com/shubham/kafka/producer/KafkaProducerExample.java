@@ -14,7 +14,7 @@ import java.util.Properties;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
-
+//http://cloudurable.com/blog/kafka-tutorial-kafka-producer/index.html
 public class KafkaProducerExample {
 
   private static final Logger LOGGER = LoggerFactory.getLogger(KafkaProducerExample.class);
